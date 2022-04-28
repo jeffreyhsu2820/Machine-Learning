@@ -6,7 +6,7 @@ Competition: https://www.kaggle.com/competitions/ml2020fall-hw1
 Data: Data was downloaded from the Air Quality Monitoring Network of the Environmental Protection Agency of the Executive Yuan.  
 Goals: Handcraft the Linear Regression Model to predict the value of PM2.5.  
 Apply Linear Regression Model with Gradiend descent without using the packages.   
-- Simple baseline - [x] (linear regression with adagrad) 
+- Simple baseline - [x]  (linear regression with adagrad) 
 - Strong baseline - [x] (linear regression with adagrad) 
 ### HW2 Logistic Regression
 Competition: https://www.kaggle.com/competitions/ml2020fall-hw2   

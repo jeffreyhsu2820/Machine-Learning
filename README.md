@@ -2,9 +2,9 @@
 109-2 Machine Learning 
 由李宏毅教授、吳沛遠教授和林宗男教授共同合授。吳沛遠教授負責授課與作業規劃。
 ### HW1 Linear Regression
-Data: Data was downloaded from the Air Quality Monitoring Network of the Environmental Protection Agency of the Executive Yuan. 
-Goals: Handcraft the Linear Regression Model to predict the value of PM2.5. 
-Apply Linear Regression Model with Gradiend descent without using the packages. 
+Data: Data was downloaded from the Air Quality Monitoring Network of the Environmental Protection Agency of the Executive Yuan.  
+Goals: Handcraft the Linear Regression Model to predict the value of PM2.5.  
+Apply Linear Regression Model with Gradiend descent without using the packages.   
 - Simple baseline [x] (linear regression with adagrad) 
 - Strong baseline [x] (linear regression with adagrad) 
 ### HW2 Logistic Regression

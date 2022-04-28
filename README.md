@@ -17,12 +17,12 @@ Competition: https://www.kaggle.com/competitions/ml2020fall-hw3
 Data: Facial Expression Recognition 2013 Dataset
 Goals: Implement CNN model.
 ### HW4 Text Sentiment Classification (RNN)  
-Competition: https://www.kaggle.com/competitions/ml2020fall-hw4
+Competition: https://www.kaggle.com/competitions/ml2020fall-hw5
 Data:  
 Training data: 190000 labeled data  
 Test data: 10,000 tweets  
 Goals: Use RNN/ BOW+DNN to predict whether a tweet is a malicious tweet.  
 ### HW5 Image Clustering
-Competition: https://www.kaggle.com/competitions/ml2020fall-hw5  
+Competition: https://www.kaggle.com/competitions/ml2020fall-hw5-1  
 Data:
 Goals:

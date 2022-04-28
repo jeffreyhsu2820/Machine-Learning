@@ -1,6 +1,6 @@
 # NTU Machine Learning  
-109-2 Machine Learning 
-由李宏毅教授、吳沛遠教授和林宗男教授共同合授。吳沛遠教授負責授課與作業規劃。
+109-2 Machine Learning   
+由李宏毅教授、吳沛遠教授和林宗男教授共同合授。吳沛遠教授負責授課與作業規劃。   
 ### HW1 Linear Regression
 Competition: https://www.kaggle.com/competitions/ml2020fall-hw1  
 Data: Data was downloaded from the Air Quality Monitoring Network of the Environmental Protection Agency of the Executive Yuan.  

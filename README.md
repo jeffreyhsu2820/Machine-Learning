@@ -24,5 +24,5 @@ Test data: 10,000 tweets
 Goals: Use RNN/ BOW+DNN to predict whether a tweet is a malicious tweet.  
 ### HW5 Image Clustering
 Competition: https://www.kaggle.com/competitions/ml2020fall-hw5-1  
-Data:
-Goals:
+Data: 9,000 images with 32*32*3 pixels and the labels are not provided
+Goals: Determine whether the given pictures are landscapes or not. ()

@@ -24,5 +24,9 @@ Test data: 10,000 tweets
 Goals: Use RNN/ BOW+DNN to predict whether a tweet is a malicious tweet.  
 ### HW5 Image Clustering
 Competition: https://www.kaggle.com/competitions/ml2020fall-hw5-1  
-Data: 9,000 images with 32x32x3 pixels are provided but the labels are not attached  
-Goals: Determine whether the given pictures are landscapes or not. (Practice Autoencoder and clustering methods.)
+Data: 9,000 unlabeled images with 32x32x3 pixels are provided   
+Goals: Determine whether the given pictures are landscapes or not. (Practice Autoencoder and clustering methods.)   
+### Final Project
+Competition: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+Data: With 79 explanatory variables describing every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.  
+Goals: Creative feature engineering and regression techniques   

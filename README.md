@@ -17,14 +17,14 @@ Apply Linear Regression Model with Gradiend descent without using the packages.
 **Goals:** Implement CNN model.
 
 ### HW4 Text Sentiment Classification (RNN)  
-**Competition:** https://www.kaggle.com/competitions/ml2020fall-hw5
+**Competition:** https://www.kaggle.com/competitions/ml2020fall-hw5  
 **Data:**  
-Training data: 190,000 labeled data  
-Test data: 10,000 tweets  
+&emsp;&emsp;Training data: 190,000 labeled data  
+&emsp;&emsp;Test data: 10,000 tweets  
 **Goals:** Use RNN/ BOW+DNN to predict whether a tweet is a malicious tweet.  
 
 ### HW5 Image Clustering
-**Competition:** https://www.kaggle.com/competitions/ml2020fall-hw5-1  
+**Competition:** https://www.kaggle.com/competitions/ml2020fall-hw5-1   
 **Data:** 9,000 unlabeled images with 32x32x3 pixels are provided   
 **Goals:** Determine whether the given pictures are landscapes or not. (Practice Autoencoder and clustering methods.)   
 
